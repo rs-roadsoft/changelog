@@ -1,0 +1,21 @@
+{
+  "name": "changelog-generator",
+  "version": "1.0.0",
+  "description": "GitHub Pages changelog generator with Windsurf-style design",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "node build.js && open docs/index.html",
+    "export": "node export-github-releases.js"
+  },
+  "keywords": [
+    "changelog",
+    "github-pages",
+    "markdown"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "marked": "^11.1.0"
+  }
+}

@@ -1,0 +1,10 @@
+---
+version: rs-prd-v2.0.31
+date: April 25, 2023
+---
+
+## What's Changed
+* HOTFIX: Fix/rs 2529 incorect ldd prod by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1732
+
+
+**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.30...rs-prd-v2.0.31
