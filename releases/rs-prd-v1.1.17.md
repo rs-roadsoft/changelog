@@ -4,4 +4,4 @@ date: April 4, 2022
 ---
 
 ## What's Changed
-* RS-1123: [RS-1084] Add: task_manager queue to arena by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/919
+* [RS-1084] Add: task_manager queue to arena

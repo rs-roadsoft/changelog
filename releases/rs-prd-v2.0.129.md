@@ -4,4 +4,4 @@ date: May 23, 2025
 ---
 
 ## What's Changed
-* RS-5039: chore: wrap user password update in transaction by @marhi in https://github.com/rs-roadsoft/roadsoft-be/pull/3807
+* chore: wrap user password update in transaction

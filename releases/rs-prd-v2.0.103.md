@@ -4,4 +4,4 @@ date: November 27, 2024
 ---
 
 ## What's Changed
-* [PROD] RS-4438: Company created by a partner user needs to be associated with same partner by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3331
+* [PROD] RS-4438: Company created by a partner user needs to be associated with same partner

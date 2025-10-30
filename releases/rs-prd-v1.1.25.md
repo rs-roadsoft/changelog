@@ -4,4 +4,4 @@ date: April 21, 2022
 ---
 
 ## What's Changed
-* HOTFIX: RS-1191: Fix issue with activity delete by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/977
+* HOTFIX: RS-1191: Fix issue with activity delete

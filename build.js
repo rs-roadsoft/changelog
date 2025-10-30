@@ -4,11 +4,17 @@ const { marked } = require('marked');
 
 // Semver comparison function
 function compareSemver(a, b) {
-  const aParts = a.split('.').map(Number);
-  const bParts = b.split('.').map(Number);
+  // Extract version numbers from strings like "rs-prd-v2.0.145" or "2.0.145"
+  const extractVersion = (str) => {
+    const match = str.match(/(\d+)\.(\d+)\.(\d+)/);
+    return match ? [parseInt(match[1]), parseInt(match[2]), parseInt(match[3])] : [0, 0, 0];
+  };
+  
+  const aParts = extractVersion(a);
+  const bParts = extractVersion(b);
   
   for (let i = 0; i < 3; i++) {
-    if (aParts[i] > bParts[i]) return -1;
+    if (aParts[i] > bParts[i]) return -1; // Newer first (DESC)
     if (aParts[i] < bParts[i]) return 1;
   }
   return 0;

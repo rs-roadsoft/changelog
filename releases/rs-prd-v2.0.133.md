@@ -4,4 +4,4 @@ date: July 2, 2025
 ---
 
 ## What's Changed
-* HOTFIX: RS-4918 & RS-5085 by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3896
+* HOTFIX: RS-4918 & RS-5085

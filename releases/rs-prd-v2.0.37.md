@@ -4,4 +4,4 @@ date: June 12, 2023
 ---
 
 ## What's Changed
-* RS-2644 Mysql connection update by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1901
+* Mysql connection update

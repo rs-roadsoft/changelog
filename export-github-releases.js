@@ -98,11 +98,43 @@ function cleanReleaseBody(body) {
   // Remove "Full Changelog" links
   cleaned = cleaned.replace(/\*\*Full Changelog\*\*:.*$/gm, '');
   
+  // Process line by line to preserve structure
+  const lines = cleaned.split('\n');
+  const processedLines = lines.map(line => {
+    let processedLine = line;
+    
+    // Skip RELEASE date lines (e.g., "* RELEASE: 23-02-2023" or "* STG RELEASE: 23-02-2023")
+    if (/^\s*[\*\-]\s*(STG\s+)?RELEASE:\s*\d{2,4}-\d{2}-\d{2,4}/i.test(processedLine)) {
+      return '';
+    }
+    
+    // Skip "Bump" and "Build(deps): bump" lines
+    if (/^\s*[\*\-]\s*(Bump|Build\(deps\):\s*bump)/i.test(processedLine)) {
+      return '';
+    }
+    
+    // Remove GitHub PR/issue links
+    processedLine = processedLine.replace(/https?:\/\/github\.com\/[^\s)]+/g, '');
+    
+    // Remove " by @username in " patterns
+    processedLine = processedLine.replace(/\s+by\s+@[\w-]+\s+in\s*/g, '');
+    
+    // Remove Jira keys at the start of bullet points (e.g., "* RS-2019: Fix bug")
+    processedLine = processedLine.replace(/^(\s*[\*\-]\s+)[A-Z]+-\d+:?\s*/g, '$1');
+    
+    // Clean up multiple spaces
+    processedLine = processedLine.replace(/\s{2,}/g, ' ').trim();
+    
+    return processedLine;
+  }).filter(line => line.length > 0); // Remove empty lines
+  
+  cleaned = processedLines.join('\n');
+  
   // Remove empty lines at the end
   cleaned = cleaned.trim();
 
-  // If nothing left after cleaning, return null
-  if (cleaned === '') {
+  // If nothing left after cleaning, return null (but release will still be exported with empty body)
+  if (cleaned === '' || cleaned === '## What\'s Changed') {
     return null;
   }
 
@@ -120,11 +152,6 @@ function convertToMarkdown(release) {
   
   // Clean the release body
   const cleanedBody = cleanReleaseBody(release.body);
-  
-  // Skip if no meaningful content
-  if (!cleanedBody) {
-    return null;
-  }
 
   let markdown = `---
 version: ${version}
@@ -135,7 +162,11 @@ date: ${date}`;
   }
 
   markdown += `\n---\n\n`;
-  markdown += cleanedBody;
+  
+  // Add body if available, otherwise just leave it empty
+  if (cleanedBody) {
+    markdown += cleanedBody;
+  }
 
   return markdown;
 }
@@ -180,9 +211,12 @@ async function exportReleases() {
         continue;
       }
 
-      // Filter: Only export production releases (rs-prd-*)
+      // Filter: Only export production releases (rs-prd-* or version-only like v2.0.146)
       const tagName = release.tag_name.toLowerCase();
-      if (!tagName.includes('rs-prd-') && !tagName.includes('prd')) {
+      const isPrdRelease = tagName.includes('rs-prd-') || tagName.includes('prd');
+      const isVersionOnly = /^v?\d+\.\d+\.\d+$/.test(release.tag_name); // Matches v2.0.146 or 2.0.146
+      
+      if (!isPrdRelease && !isVersionOnly) {
         skipped++;
         continue;
       }
@@ -192,13 +226,6 @@ async function exportReleases() {
       const filepath = path.join(releasesDir, filename);
 
       const markdown = convertToMarkdown(release);
-      
-      // Skip if no meaningful content
-      if (!markdown) {
-        console.log(`⊘ Skipped ${filename} (no release notes)`);
-        skipped++;
-        continue;
-      }
 
       fs.writeFileSync(filepath, markdown);
       

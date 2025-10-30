@@ -4,4 +4,4 @@ date: May 9, 2025
 ---
 
 ## What's Changed
-* [PRD] Hotfix RS-5003 Printing report via task manager results in `500` error by @rokbracun in https://github.com/rs-roadsoft/roadsoft-be/pull/3773
+* [PRD] Hotfix RS-5003 Printing report via task manager results in `500` error

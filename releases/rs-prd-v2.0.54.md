@@ -4,4 +4,4 @@ date: October 19, 2023
 ---
 
 ## What's Changed
-* HOTFIX: RS-3022: fix password reset email url by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2232
+* HOTFIX: RS-3022: fix password reset email url

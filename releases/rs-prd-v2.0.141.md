@@ -4,4 +4,4 @@ date: August 28, 2025
 ---
 
 ## What's Changed
-* [HOTFIX] RS-5229 BE - Vehicle file upload is failing by @rokbracun in https://github.com/rs-roadsoft/roadsoft-be/pull/4081
+* [HOTFIX] RS-5229 BE - Vehicle file upload is failing

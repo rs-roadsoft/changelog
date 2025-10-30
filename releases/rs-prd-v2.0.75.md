@@ -4,4 +4,4 @@ date: March 12, 2024
 ---
 
 ## What's Changed
-* [HOTFIX][PRD] RS-3635 Toonen Reizen: Incorrect driver in daily vehicle activity protocol report by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/2582
+* [HOTFIX][PRD] RS-3635 Toonen Reizen: Incorrect driver in daily vehicle activity protocol report
