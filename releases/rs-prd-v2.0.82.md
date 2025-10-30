@@ -24,6 +24,3 @@ date: May 9, 2024
 * rs-prd -> rs-stg by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2695
 * RS-3708 Metaalrecycling C. Kooijman : Notifications inactive vehicle by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/2707
 * RELEASE: 2024-05-09 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2711
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.81...rs-prd-v2.0.82

@@ -48,6 +48,3 @@ date: October 20, 2022
 * RS-1861 Secondary ordering by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1426
 * RS-1981 TKM Incorrect sorting by status by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1428
 * RELEASE: 20-10-2022 | Task manager Basic filters by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1431
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.2.0...rs-prd-v1.2.1

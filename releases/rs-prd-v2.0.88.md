@@ -54,6 +54,3 @@ date: August 1, 2024
 * RS-4016: Fix  Can't Reimport Problematic Files by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2928
 * RS-4017 TKM - Tasks I, J, K, and L are Empty after Disabling TKM + by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/2929
 * RELEASE: 2024-08-01 |  by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2927
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.87...rs-prd-v2.0.88

@@ -30,6 +30,3 @@ date: March 7, 2024
 * RS-3171: Switch to prod Tachosys by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2570
 * RS-3588 BE - Report email gets sent multiple times by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/2576
 * RELEASE: 2024-03-07 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2573
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.73...rs-prd-v2.0.74

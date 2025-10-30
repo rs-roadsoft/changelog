@@ -29,6 +29,3 @@ date: January 12, 2023
 * RS-1912: Fix UNDEFINED_VEHICLE_ODOMETER_LIMIT condition by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1551
 * RS-2065: Fix - task manager createdAt dates should be updated by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1553
 * RELEASE: 12-01-2023 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1555
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.2.7...rs-prd-v1.2.8

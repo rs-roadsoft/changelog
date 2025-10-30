@@ -20,6 +20,3 @@ date: February 27, 2023
 * RS-2249: Fix issue with next sent date by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1616
 * RS-2326: Fix driver letter report - language selection by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1618
 * RELEASE: 23-02-2023  by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1614
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.2.11...rs-prd-v1.2.12

@@ -27,6 +27,3 @@ date: June 30, 2022
 * RS-1443  Missing data in reports - logging by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1131
 * RS-1440: Add transations and coment out manual migrations by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1132
 * RELEASE: 21-06-2022 | AWS Event bridge by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1134
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1.40...rs-prd-v1.1.41

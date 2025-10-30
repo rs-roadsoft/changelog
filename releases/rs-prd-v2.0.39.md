@@ -23,6 +23,3 @@ date: July 6, 2023
 * RS-2311 Remove 'leave comment' action for task 'Justify out of scope (mis)use' - STG by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1937
 * RS-2255: Make completeFileUploadAction sequential by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1952
 * RELEASE: 2023-07-06 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1953
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.38...rs-prd-v2.0.39

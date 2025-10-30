@@ -10,6 +10,3 @@ date: April 6, 2022
 * Optimise task generator by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/923
 * [BACKMERGE] Update: Company task generator worker interval  by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/926
 * RELEASE: Task generator optimisation and External endpoint update by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/928
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1.18...rs-prd-v1.1.19

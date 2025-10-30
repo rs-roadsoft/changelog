@@ -37,6 +37,3 @@ date: September 26, 2024
 * RS-4208: fix: reset users default company if company deleted by @marhi in https://github.com/poviolabs/roadsoft-be/pull/3113
 * RS-4215 TKM - Identify Vehicles Action Button is Marked as Completed by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/3114
 * RELEASE 2024-09-26 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/3112
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.92...rs-prd-v2.0.93

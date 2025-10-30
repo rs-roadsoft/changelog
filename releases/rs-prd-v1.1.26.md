@@ -9,6 +9,3 @@ date: April 25, 2022
 * HOTFIX-STG: RS-1191: Fix issue with activity delete by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/976
 * RS-1186: Cherrypick TypeORM replication to stg by @adrianjarc in https://github.com/poviolabs/roadsoft-be/pull/978
 * RELEASE: April 25th 2022 by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/985
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1.25...rs-prd-v1.1.26

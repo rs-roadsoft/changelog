@@ -15,6 +15,3 @@ date: January 18, 2024
 * RS-3369 Missing Vehicle Data Report not Generated for Particular Periods by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/2461
 * RS-3369 Missing Vehicle Data Report not Generated for Particular Periods by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/2462
 * HOTFIX RELEASE: 2024-01-17 | Hotfix by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2458
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.66...rs-prd-v2.0.67

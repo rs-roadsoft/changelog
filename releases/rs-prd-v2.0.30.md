@@ -28,6 +28,3 @@ date: April 20, 2023
 * RS-2340 Company details, update company dto by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1723
 * RS-2513: FIx issue with getActivitiesForDriverLetter query by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1726
 * RELEASE: 2023-04-20 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1724
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.29...rs-prd-v2.0.30

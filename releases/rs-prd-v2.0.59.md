@@ -59,6 +59,3 @@ date: November 14, 2023
 * RS-3058: Fix setting digi central id from Hubspot by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2297
 * RS-3058: Fix vehicle tracing endpoint if digi central id has spaces by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2299
 * RELEASE: 2023-11-09 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2285
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.58...rs-prd-v2.0.59

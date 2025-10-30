@@ -24,6 +24,3 @@ date: November 3, 2022
 * RS-2000 Optimise select tachoFile query by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1443
 * RS-2018 Drivers - Activities Calendar Shows No Activities For First Day of Recorded Activities by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1446
 * RELEASE: 03-11-2022 | Trasics Integrat, TKM Search. Bulk actions by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1447
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.2.1...rs-prd-v1.2.2

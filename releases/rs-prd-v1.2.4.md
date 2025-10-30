@@ -24,6 +24,3 @@ date: November 17, 2022
 * RS-2061 Scania integrations fix - initialization of entity by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1466
 * RS-2073: Update translations by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1472
 * RELEASE: 17-11-2022 | Bugfixes by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1477
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.2.3...rs-prd-v1.2.4

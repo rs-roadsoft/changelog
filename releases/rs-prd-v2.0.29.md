@@ -34,6 +34,3 @@ date: April 6, 2023
 * RS-2475 Company Cards API Endpoint Returns 403 For Admin Created Company by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1699
 * RS-2477: FIX  Used Credits Reduction not Applied After New File Imports by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1700
 * RELEASE: 2023-04-06 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1701
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.28...rs-prd-v2.0.29

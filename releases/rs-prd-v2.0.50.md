@@ -18,6 +18,3 @@ date: September 14, 2023
 * RS-2870: Selecting premium plus features should not change the tier by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2138
 * RS-881 Pro subscription tier - access to user management by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/2142
 * RELEASE: 2023-09-14 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2139
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.49...rs-prd-v2.0.50

@@ -22,6 +22,3 @@ date: November 28, 2022
 * Fix/rs 2086 zoho token issues stg by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1493
 * RS-2092: Change way of sending data to pdf-lambda by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1495
 * RELEASE: 22-11-2022 | New scheduler by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1498
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.2.4...rs-prd-v1.2.5

@@ -35,6 +35,3 @@ date: July 21, 2022
 * RS-1571: Update transaltions by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1192
 * Fix/rs 1575 deadline overview report has multiple different entries for same vehicle and driver by @podplatnikm in https://github.com/poviolabs/roadsoft-be/pull/1193
 * RELEASE: 07-07-2022 | Task G, Task F by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1190
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1.42...rs-prd-v1.1.43

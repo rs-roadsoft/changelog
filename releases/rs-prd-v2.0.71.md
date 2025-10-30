@@ -24,6 +24,3 @@ date: February 22, 2024
 * RS-3533: Remove vehicle special conditions from driver activty by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2535
 * RS-3508 Bakker Int. koeltransport driver end of shift for vehicle day activity report causing mismatch in driver shown in report by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/2538
 * RELEASE: 2024-02-22 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2537
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.70...rs-prd-v2.0.71

@@ -15,6 +15,3 @@ date: August 4, 2022
 * RS-1638: Generate translations by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1243
 * RS-1639: Migrate existing company card info from company to company cards by @podplatnikm in https://github.com/poviolabs/roadsoft-be/pull/1244
 * RELEASE: 04-08-2022 | Task N by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1245
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1.45...rs-prd-v1.1.46

@@ -21,6 +21,3 @@ date: January 26, 2023
 * RS-2211: Add index to mongo TempTachoFileStorageSchema model by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1564
 * RS-2228 Widgets - Driver's Breakdown Driver Infringement Count is 0 for All Drivers by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1566
 * RELEASE: 26-01-2023 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1569
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.2.9...rs-prd-v1.2.10

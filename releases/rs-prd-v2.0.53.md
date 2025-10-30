@@ -25,6 +25,3 @@ date: October 12, 2023
 * STG RELEASE: 2023-10-12 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2195
 * RS-2928 HS SaaS app information not being updated by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/2198
 * RELEASE: 2023-10-12 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2214
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.52...rs-prd-v2.0.53

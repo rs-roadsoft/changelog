@@ -66,6 +66,3 @@ date: November 7, 2024
 * Rs prd -> stg by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3286
 * RS-4212: in case of newer import take one with the highest odometer v… by @marhi in https://github.com/rs-roadsoft/roadsoft-be/pull/3287
 * RELEASE 2024-10-24 | by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3285
-
-
-**Full Changelog**: https://github.com/rs-roadsoft/roadsoft-be/compare/rs-prd-v2.0.99...rs-prd-v2.0.100

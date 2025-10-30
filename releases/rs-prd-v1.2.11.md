@@ -17,6 +17,3 @@ date: February 13, 2023
 * RS-2283: Fix LDD and NDD in vehicle dto by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1591
 * RS-2290 Scheduled Reports - Changing Interval of Sending on Daily Scheduled Report Causes Page Crash by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1593
 * RELEASE: 09-02-2023 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1594
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.2.10...rs-prd-v1.2.11

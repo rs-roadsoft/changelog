@@ -20,6 +20,3 @@ date: August 23, 2022
 * RS-1702: Fix issue with endAt on task B (set end to shift end if endAt is missing) by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1282
 * RS-1702: Fix issue with endAt beeing 1970-01-01T00:00:00 by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1283
 * RELEASE: 18-08-2022 | Task D, Bug fixes by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1284
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1.47...rs-prd-v1.1.48

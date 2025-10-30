@@ -18,6 +18,3 @@ date: August 14, 2023
 * RS-2771: Fix updating company's hsSaasAccountId by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2056
 * RS-2763: Data Analytics Object Not Created by @lukapecnik in https://github.com/poviolabs/roadsoft-be/pull/2057
 * RELEASE: 2023-08-14 | Hubspot switch by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2058
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.44...rs-prd-v2.0.45

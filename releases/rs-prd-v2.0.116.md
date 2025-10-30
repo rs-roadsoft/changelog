@@ -25,5 +25,3 @@ date: March 13, 2025
 
 ## New Contributors
 * @iliakan made their first contribution in https://github.com/rs-roadsoft/roadsoft-be/pull/3586
-
-**Full Changelog**: https://github.com/rs-roadsoft/roadsoft-be/compare/rs-prd-v2.0.115...rs-prd-v2.0.116

@@ -56,6 +56,3 @@ date: September 12, 2024
 * RS-4184 Partner Company - Missing Driver Data Report Shows Data for Deleted Vehicles by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/3070
 * RS-4185 Delete Strategy - Deleted Vehicle Files are Still Displayed on Import Logs Tab by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/3069
 * 2024-09-12 | Delete API support by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/3073
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.91...rs-prd-v2.0.92

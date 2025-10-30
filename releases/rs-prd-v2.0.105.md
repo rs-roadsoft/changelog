@@ -38,6 +38,3 @@ date: December 5, 2024
 * RS-4888: Allow UserRole.PARTNER_ADMIN to override task manager enabled at by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3370
 * RS-4888: Allow partner admin user to disable overrides by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3371
 * RELEASE: 2024-12-05 | Webfleet by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3369
-
-
-**Full Changelog**: https://github.com/rs-roadsoft/roadsoft-be/compare/rs-prd-v2.0.104...rs-prd-v2.0.105

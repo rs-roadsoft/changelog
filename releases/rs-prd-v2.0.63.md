@@ -35,6 +35,3 @@ date: December 7, 2023
 * RS-3238 Reports - Driver Hour Registration Report Shows Incorrect Distance by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/2388
 * RS-3238 Reports - Driver Hour Registration Report Shows Incorrect Distance by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/2391
 * RELEASE: 2023-12-07 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2386
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.62...rs-prd-v2.0.63

@@ -13,6 +13,3 @@ date: May 13, 2022
 * RS-1272: Re-enable building missing data for big comanies by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1035
 * RS-1274: Task generator Cron jobs - remove task manager worker by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1034
 * RELEASE: Disabling daily cron jobs by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1036
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1.31...rs-prd-v1.1.32

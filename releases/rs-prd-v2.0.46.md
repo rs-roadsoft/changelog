@@ -30,6 +30,3 @@ date: August 24, 2023
 * RS-2827: Enabling Premium+ Features on Zoho Should Enable Those Featu… by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2085
 * Fix/rs 2828 access issues by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2086
 * RELEASE: 2023-08-17 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2088
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.45...rs-prd-v2.0.46

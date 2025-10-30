@@ -21,6 +21,3 @@ date: May 26, 2022
 * RS-1291 duplicate missing data tasks by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1077
 * Update scritp by @KlemenPlazar in https://github.com/poviolabs/roadsoft-be/pull/1079
 * RELEASE: 19-05-2022 | Hackaton 2 improvements by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1073
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1.37...rs-prd-v1.1.38

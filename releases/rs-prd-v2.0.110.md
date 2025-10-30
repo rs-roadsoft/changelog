@@ -40,6 +40,3 @@ date: February 6, 2025
 * RS-4644: Update Acl to show propper buttons on driver and vehicle details by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3515
 * RS-4654: Manage tier overrides by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3516
 * RS-4582: Fix max user amount for Hubspot subscriptions by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3517
-
-
-**Full Changelog**: https://github.com/rs-roadsoft/roadsoft-be/compare/rs-prd-v2.0.109...rs-prd-v2.0.110

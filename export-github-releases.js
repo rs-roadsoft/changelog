@@ -87,6 +87,28 @@ function fetchReleases(page = 1) {
   });
 }
 
+// Function to clean and format release body
+function cleanReleaseBody(body) {
+  if (!body || body.trim() === '') {
+    return null;
+  }
+
+  let cleaned = body.trim();
+
+  // Remove "Full Changelog" links
+  cleaned = cleaned.replace(/\*\*Full Changelog\*\*:.*$/gm, '');
+  
+  // Remove empty lines at the end
+  cleaned = cleaned.trim();
+
+  // If nothing left after cleaning, return null
+  if (cleaned === '') {
+    return null;
+  }
+
+  return cleaned;
+}
+
 // Function to convert GitHub markdown to our format
 function convertToMarkdown(release) {
   const version = release.tag_name.replace(/^v/, ''); // Remove 'v' prefix if present
@@ -96,6 +118,14 @@ function convertToMarkdown(release) {
     day: 'numeric'
   });
   
+  // Clean the release body
+  const cleanedBody = cleanReleaseBody(release.body);
+  
+  // Skip if no meaningful content
+  if (!cleanedBody) {
+    return null;
+  }
+
   let markdown = `---
 version: ${version}
 date: ${date}`;
@@ -105,13 +135,7 @@ date: ${date}`;
   }
 
   markdown += `\n---\n\n`;
-  
-  // Add release body
-  if (release.body) {
-    markdown += release.body.trim();
-  } else {
-    markdown += 'No release notes provided.';
-  }
+  markdown += cleanedBody;
 
   return markdown;
 }
@@ -168,6 +192,14 @@ async function exportReleases() {
       const filepath = path.join(releasesDir, filename);
 
       const markdown = convertToMarkdown(release);
+      
+      // Skip if no meaningful content
+      if (!markdown) {
+        console.log(`⊘ Skipped ${filename} (no release notes)`);
+        skipped++;
+        continue;
+      }
+
       fs.writeFileSync(filepath, markdown);
       
       console.log(`✓ Exported ${filename}`);

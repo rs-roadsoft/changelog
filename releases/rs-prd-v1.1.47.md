@@ -28,6 +28,3 @@ date: August 11, 2022
 * RS-1662 Task H - Multiple Tasks Generated When Importing Multiple Files of Same Vehicle by @podplatnikm in https://github.com/poviolabs/roadsoft-be/pull/1258
 * Rs 1044 translations update by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1259
 * RELEASE: 11-08-2022 | Task H by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1260
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1.46...rs-prd-v1.1.47

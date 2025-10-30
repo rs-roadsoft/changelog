@@ -25,6 +25,3 @@ date: February 13, 2025
 * RS-4673: Add automatic user confirmation on password reset by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3532
 * RS-4679 Admin Dashboard - Super Admin Can't Update Subscription & RS-4681 Display Different Error Message if Partner Admin Wants to Update Non-Partner Company by @rokbracun in https://github.com/rs-roadsoft/roadsoft-be/pull/3533
 * RELEASE: 2025-02-13 | by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3537
-
-
-**Full Changelog**: https://github.com/rs-roadsoft/roadsoft-be/compare/rs-prd-v2.0.111...rs-prd-v2.0.112

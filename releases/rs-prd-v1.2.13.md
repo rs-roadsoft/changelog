@@ -13,6 +13,3 @@ date: March 9, 2023
 * RS-2298: Add additional log by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1642
 * RS-2298: Specify the exact format for Samsara credentials check by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1643
 * 2023-03-09 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1645
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.2.12...rs-prd-v1.2.13

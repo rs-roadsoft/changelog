@@ -20,6 +20,3 @@ date: May 11, 2023
 * RS-2536 Update query for primary user backfill by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1764
 * RS-2468 Matli BV: Driver hour registration report shows rest time calendar day instead of rest time of shift (Reports) by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1775
 * RELEASE: 2023-05-11 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1795
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.32...rs-prd-v2.0.33

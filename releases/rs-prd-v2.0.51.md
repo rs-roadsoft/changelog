@@ -10,6 +10,3 @@ date: September 25, 2023
 * RS-2883: Forcing master connection on company creation by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2155
 * RS-2883: Forcing master connection on company creation by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2156
 * RELEASE: 2023-09-xx | Smart Tacho 2 by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2164
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.50...rs-prd-v2.0.51

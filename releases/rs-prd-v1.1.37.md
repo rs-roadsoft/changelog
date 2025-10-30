@@ -10,6 +10,3 @@ date: May 18, 2022
 * RS-1309: Fix getInfringementsCount query by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1054
 * RS-1309: Fix getInfringementsCount query add check for deleted activi… by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1055
 * RELEASE: Fixes for the FE release by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1053
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1.36...rs-prd-v1.1.37

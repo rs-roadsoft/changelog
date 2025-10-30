@@ -22,6 +22,3 @@ date: August 31, 2023
 * Fix/rs 2718 by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2108
 * RS-2841: Subscription - Task Manager Type Needs to Match Zoho Saas Ap… by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2109
 * RELEASE: 2023-08-31 by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2110
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.47...rs-prd-v2.0.48

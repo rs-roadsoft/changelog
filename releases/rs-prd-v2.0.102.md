@@ -45,6 +45,3 @@ date: November 21, 2024
 * RS-4408 deleted users by @marhi in https://github.com/rs-roadsoft/roadsoft-be/pull/3320
 * Fix/RS-4196 break time by @marhi in https://github.com/rs-roadsoft/roadsoft-be/pull/3318
 * 2024-11-21 | Kaja by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3323
-
-
-**Full Changelog**: https://github.com/rs-roadsoft/roadsoft-be/compare/rs-prd-v2.0.101...rs-prd-v2.0.102

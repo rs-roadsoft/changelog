@@ -51,6 +51,3 @@ date: October 10, 2024
 * RS-4219: change driver unique id by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/3177
 * RS-4009: sync saas app data with zoho by @marhi in https://github.com/poviolabs/roadsoft-be/pull/3173
 * RELEASE 2024-10-10 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/3178
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.94...rs-prd-v2.0.95

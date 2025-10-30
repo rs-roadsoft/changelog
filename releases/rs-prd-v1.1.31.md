@@ -8,6 +8,3 @@ date: May 12, 2022
 * RS-1280 Remove async in .map function for missing vehicle data by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1029
 * Add translations by @KlemenPlazar in https://github.com/poviolabs/roadsoft-be/pull/1028
 * DEPLOY:  Hotfixes | Missing Data report & Translations by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1030
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1.30...rs-prd-v1.1.31

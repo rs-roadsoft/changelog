@@ -19,6 +19,3 @@ date: November 4, 2024
 * RS-4349: Logger of database setup by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3259
 * RS-4350 (Driver Daily Work Report) Unknown activity duration is being counted towards another status (driving, rest, work, etc.) by @rokbracun in https://github.com/rs-roadsoft/roadsoft-be/pull/3271
 * RELEASE 2024-11-04 | Driver daily work report by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3269
-
-
-**Full Changelog**: https://github.com/rs-roadsoft/roadsoft-be/compare/rs-prd-v2.0.97...rs-prd-v2.0.98

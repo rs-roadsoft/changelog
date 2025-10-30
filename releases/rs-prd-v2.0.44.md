@@ -28,6 +28,3 @@ date: August 3, 2023
 * RS-2753: Add support for whitelisting email domains by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2031
 * RS-2759: Hubspot - Stage Deal Webhook Returns 400 by @lukapecnik in https://github.com/poviolabs/roadsoft-be/pull/2036
 * RELEASE: 2023-08-03 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2037
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.43...rs-prd-v2.0.44

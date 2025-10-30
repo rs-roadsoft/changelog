@@ -33,6 +33,3 @@ date: August 29, 2024
 * RS-4133 Driver's Activity - Last Rest Activity lasts 1 Minute Less than Actual by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/3007
 * RS-4024 Users search by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/3009
 * RELEASE: 2024-08-29 | Partners API Release by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/3008
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.90...rs-prd-v2.0.91

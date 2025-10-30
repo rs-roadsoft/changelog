@@ -26,6 +26,3 @@ date: June 6, 2024
 * RS-3870 Problematic Imports - File with Empty Activity Records File Ends Up on Failed Tab instead of Problematic Imports Tab by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/2759
 * RS-3857: Fix issue with company start on Driver odometer report by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2762
 * RELEASE: 2024-06-06 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2765
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.83...rs-prd-v2.0.84

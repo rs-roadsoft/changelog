@@ -36,6 +36,3 @@ date: July 18, 2024
 * RS-3807: fix: map all admin roles to partners MANAGER role by @marhi in https://github.com/poviolabs/roadsoft-be/pull/2882
 * RS-3807: fetch vehicle by locationId and not default location id by @marhi in https://github.com/poviolabs/roadsoft-be/pull/2886
 * RELEASE: 2024-07-18 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2880
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.86...rs-prd-v2.0.87

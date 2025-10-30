@@ -15,6 +15,3 @@ date: May 15, 2025
 * [PRD] HOTFIX: RS-4994: Fix issues with webfleet integration by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3778
 * [HOTFIX / PRD] RS-5013: Fix difference in number of infringements between driver-based and company total reports by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3787
 * [FEATURE / PRD] Reseller partner by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3786
-
-
-**Full Changelog**: https://github.com/rs-roadsoft/roadsoft-be/compare/rs-prd-v2.0.125...rs-prd-v2.0.126

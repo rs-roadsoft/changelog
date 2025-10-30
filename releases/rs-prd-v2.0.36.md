@@ -69,5 +69,3 @@ date: June 12, 2023
 
 ## New Contributors
 * @lukapecnik made their first contribution in https://github.com/poviolabs/roadsoft-be/pull/1828
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.35...rs-prd-v2.0.36

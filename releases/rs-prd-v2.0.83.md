@@ -26,6 +26,3 @@ date: May 23, 2024
 * RS-3122 Replace /me endpoint with resource based endpoints by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/2729
 * RS-3122 Fix /companies/:companyId endpoint by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/2730
 * RELEASE: 2024-05-23 |  by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2731
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.82...rs-prd-v2.0.83

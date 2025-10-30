@@ -26,6 +26,3 @@ date: April 4, 2024
 * Rs 3709 backmerge by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2657
 * RS-3664: Fix address resolution for VEHICLE_LOCATION_HISTORY report by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2655
 * RELEASE: 2024-04-04 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2658
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.78...rs-prd-v2.0.79

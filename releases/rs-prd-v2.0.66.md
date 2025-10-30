@@ -29,6 +29,3 @@ date: January 9, 2024
 * RS-3327 Task J - Identify Driver Button and Task not Marked as Completed after Completing All Infringements by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/2438
 * RS-3327 Task J - Identify Driver Button and Task not Marked as Completed after Completing All Infringements by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/2439
 * RELEASE: 2024-01-04 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2440
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.65...rs-prd-v2.0.66

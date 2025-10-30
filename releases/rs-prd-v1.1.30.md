@@ -47,6 +47,3 @@ date: May 12, 2022
 * RS-1277: Exclude unsupported task from getting min max by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1022
 * RS-1275: Fix Dashboard - Driver Card Expiration Widget Throws 500 on … by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1025
 * RELEASE:  BullJs Removal & Missing data optimisation by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1026
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1.27...rs-prd-v1.1.30

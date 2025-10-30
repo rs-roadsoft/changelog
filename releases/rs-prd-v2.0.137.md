@@ -17,6 +17,3 @@ date: July 31, 2025
 * RS-5143: Fix issue with driving without a card report by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3967
 * RS-5193: Support automatic border crossing in Driver country report by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3956
 * RELEASE: Verizon Integration by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3963
-
-
-**Full Changelog**: https://github.com/rs-roadsoft/roadsoft-be/compare/rs-prd-v2.0.136...rs-prd-v2.0.137

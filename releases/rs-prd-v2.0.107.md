@@ -24,6 +24,3 @@ date: December 19, 2024
 * RS-4505: Change data load period by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3410
 * RS-4075: Switch to saas from saas2 by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3411
 * RELEASE: 2024-12-19 | Scania by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3412
-
-
-**Full Changelog**: https://github.com/rs-roadsoft/roadsoft-be/compare/rs-prd-v2.0.106...rs-prd-v2.0.107

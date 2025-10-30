@@ -32,6 +32,3 @@ date: August 2, 2022
 * Fix/rs 1597 get duration from message by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1224
 * RS-1630: Disable driver letter report on task A by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1227
 * RELEASE: 28-07-2022 | Driver Letter, Additional Tasks by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1228
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1.44...rs-prd-v1.1.45

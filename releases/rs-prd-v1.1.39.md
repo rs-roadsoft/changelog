@@ -13,6 +13,3 @@ date: June 2, 2022
 * RS-1320: Update translations by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1091
 * Remove companyUser if email changes by @KlemenPlazar in https://github.com/poviolabs/roadsoft-be/pull/1089
 * RELEASE: 02-06-2022 | Bug fixes, Task K by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1094
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1.38...rs-prd-v1.1.39

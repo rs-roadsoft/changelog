@@ -7,6 +7,3 @@ date: July 6, 2023
 * Rs prd -> stg by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1955
 * RS-2687: Use getVehicleListItemsByLocationId in vehicle/list route by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1954
 * PRD Hotfix RS-2687 by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1958
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.39...rs-prd-v2.0.40

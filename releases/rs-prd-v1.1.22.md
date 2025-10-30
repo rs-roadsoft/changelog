@@ -29,6 +29,3 @@ date: April 14, 2022
 * RS-1142: Add support for missing data execution on demand by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/958
 * RS-1161: Fix: Object is now logged as a string representation by @podplatnikm in https://github.com/poviolabs/roadsoft-be/pull/959
 * Release: Task Manager Optimisations by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/939
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1.21...rs-prd-v1.1.22

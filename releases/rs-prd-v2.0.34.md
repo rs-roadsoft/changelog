@@ -52,6 +52,3 @@ date: May 25, 2023
 * RS-2581 BUG: Non-preview Driver Reports Display Activities in Future by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1846
 * RS-2584 BUG: Unknown Company Card, Daily Vehicle Activity & Vehicle Card Lock in&out Reports Display Activities in Future by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1848
 * 2023-05-25 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1850
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.33...rs-prd-v2.0.34

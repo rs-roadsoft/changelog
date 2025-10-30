@@ -31,6 +31,3 @@ date: July 4, 2024
 * RS-3894: fix isActive handling and externalId by @marhi in https://github.com/poviolabs/roadsoft-be/pull/2838
 * Fix/rs 3806 max user count validation by @marhi in https://github.com/poviolabs/roadsoft-be/pull/2844
 * RELEASE: 2024-07-04 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2843
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.85...rs-prd-v2.0.86

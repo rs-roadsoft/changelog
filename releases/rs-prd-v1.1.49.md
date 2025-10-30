@@ -31,6 +31,3 @@ date: September 8, 2022
 * RS-1757: Task Manager - Task E & Task F Not Generated On Existing Company by @podplatnikm in https://github.com/poviolabs/roadsoft-be/pull/1319
 * RS-1760 fix: date formatting for driver card dto where DateTime is us… by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1321
 * RELEASE: 25-08-2022 | Missing data fix by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1317
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1.48...rs-prd-v1.1.49

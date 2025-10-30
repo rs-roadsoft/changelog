@@ -22,6 +22,3 @@ date: December 1, 2022
 * RS-1898 Update response when adding and deleting attachments from tasks by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1502
 * RS-2086: Replace GRANT token with Refresh token by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1505
 * RELEASE: 01-12-2022 | TKM+ Bugfixes by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1506
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.2.5...rs-prd-v1.2.6

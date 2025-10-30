@@ -73,6 +73,3 @@ date: May 8, 2025
 * RS-4990: fix: activity time calculations in driver daily work report by @marhi in https://github.com/rs-roadsoft/roadsoft-be/pull/3765
 * RS-4983 Infringements with no fines (for Portugal) should not show fines column or total fine in reports and tasks by @rokbracun in https://github.com/rs-roadsoft/roadsoft-be/pull/3764
 * RELEASE: 2025-04-10 | Fines Amounts 2/2 & Driver work report by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3746
-
-
-**Full Changelog**: https://github.com/rs-roadsoft/roadsoft-be/compare/rs-prd-v2.0.120...rs-prd-v2.0.121

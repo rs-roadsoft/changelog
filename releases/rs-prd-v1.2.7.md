@@ -21,6 +21,3 @@ date: December 15, 2022
 * Revert RS-2051 DTL Lasertechniek B.V.: Activities end at 00:00, but the driver had activities till 00:19 by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1524
 * RS-2035 Weblate - turn off autosync on stg and prd by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1525
 * RELEASE: 15-12-2022 | by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1523
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.2.6...rs-prd-v1.2.7

@@ -60,6 +60,3 @@ date: April 4, 2022
 * Update/rs 1121 backmerge by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/915
 * Revert "Update/rs 1121 backmerge" by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/916
 * Release: rs-prd-v1.1.16 by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/917
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1...rs-prd-v1.1.16

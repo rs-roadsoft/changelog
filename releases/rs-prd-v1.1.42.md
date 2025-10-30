@@ -34,6 +34,3 @@ date: July 14, 2022
 * RS-1344: fix issue with vehile loading by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1169
 * RS-1496: Events end fault report should be only cenerated for selecte… by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1170
 * RELEASE: 30-06-2022 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1171
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1.41...rs-prd-v1.1.42

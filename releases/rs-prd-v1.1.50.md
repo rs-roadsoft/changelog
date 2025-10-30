@@ -40,6 +40,3 @@ date: September 22, 2022
 * RS-1821 STG - Deadline overview report - Date picker for report but no date picker necessary by @podplatnikm in https://github.com/poviolabs/roadsoft-be/pull/1348
 * RS-1817: Add new translations for Driving without card report by @podplatnikm in https://github.com/poviolabs/roadsoft-be/pull/1350
 * RELEASE: 01-09-2022 | Report 2.5 and Report 2.7 by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1351
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1.49...rs-prd-v1.1.50

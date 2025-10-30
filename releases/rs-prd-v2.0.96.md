@@ -10,6 +10,3 @@ date: October 17, 2024
 * RS-4269 "Driver Hour Registration" Report shows duplicate shifts/values by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/3188
 * RS-4269 Hour registration report duplicates by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/3191
 * HOTFIX: Shift data duplication by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/3193
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.95...rs-prd-v2.0.96

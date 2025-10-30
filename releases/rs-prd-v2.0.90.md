@@ -37,6 +37,3 @@ date: August 13, 2024
 * RS-4059: Fix Adding Users via Admin Panel Overrides # Extra Users Subscription Setting by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2962
 * RS-3965 Out of scope usage report: Also include single BEGIN and END entries by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/2963
 * RELEASE: 2024-08-13 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2968
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.89...rs-prd-v2.0.90

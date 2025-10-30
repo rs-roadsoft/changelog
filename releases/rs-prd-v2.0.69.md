@@ -37,6 +37,3 @@ date: February 6, 2024
 * RS-3439: Fix issues with ModifedAt on activity level by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2509
 * RS-3434: Resolve issues where end is null in vehicele usage records by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2510
 * RELEASE: 2024-02-06 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2504
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.68...rs-prd-v2.0.69

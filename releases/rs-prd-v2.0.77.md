@@ -38,6 +38,3 @@ date: March 21, 2024
 * RS-3610: Fix incorrect infringement message by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2585
 * RS-3534: Fix task E duplication by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2605
 * 2024-03-21 | L U K A - gone, but never forgotten by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2606
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.76...rs-prd-v2.0.77

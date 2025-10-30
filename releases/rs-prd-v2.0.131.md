@@ -64,5 +64,3 @@ date: June 4, 2025
 
 ## New Contributors
 * @pvamshi made their first contribution in https://github.com/rs-roadsoft/roadsoft-be/pull/3668
-
-**Full Changelog**: https://github.com/rs-roadsoft/roadsoft-be/compare/rs-prd-v2.0.130...rs-prd-v2.0.131

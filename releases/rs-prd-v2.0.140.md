@@ -10,6 +10,3 @@ date: August 28, 2025
 * RS-5275 BE - Support Driver Home Nation settings by @rokbracun in https://github.com/rs-roadsoft/roadsoft-be/pull/4075
 * RS-5199 Weekly rest infringement | Sintrex Transport Service bv by @rokbracun in https://github.com/rs-roadsoft/roadsoft-be/pull/4077
 * Release: 2025-08-25 | Bugfixes by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/4074
-
-
-**Full Changelog**: https://github.com/rs-roadsoft/roadsoft-be/compare/rs-prd-v2.0.139...rs-prd-v2.0.140

@@ -38,6 +38,3 @@ date: June 20, 2024
 * RS-3790 fix: check only tier when updating subscription by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/2799
 * RS-3812: fix validation logic and make vehicle registration nation nu… by @marhi in https://github.com/poviolabs/roadsoft-be/pull/2803
 * RELEASE: 2024-06-20 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2798
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.84...rs-prd-v2.0.85

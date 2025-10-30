@@ -21,6 +21,3 @@ date: January 25, 2024
 * RS-3402: update logic for generating other tasks by @lukapecnik in https://github.com/poviolabs/roadsoft-be/pull/2476
 * RS-3413: BE: prevent container task activities from being updated when bulk marked as complete by @lukapecnik in https://github.com/poviolabs/roadsoft-be/pull/2478
 * RELEASE: 2024-01-25 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2477
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.67...rs-prd-v2.0.68

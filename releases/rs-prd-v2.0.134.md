@@ -84,6 +84,3 @@ date: July 9, 2025
 * RS-5147 Fine Amounts - Employee user types get `403` forbidden resource error for `max-fine` by @rokbracun in https://github.com/rs-roadsoft/roadsoft-be/pull/3923
 * RELEASE: 2025-06-19 | Hyperline & Tier renaming by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3927
 * RELEASE: 2025-06-19 | Hyperline & Tier renaming by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3898
-
-
-**Full Changelog**: https://github.com/rs-roadsoft/roadsoft-be/compare/rs-prd-v2.0.133...rs-prd-v2.0.134

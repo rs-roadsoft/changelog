@@ -40,6 +40,3 @@ date: December 21, 2023
 * RS-3272 Task Manager - Completing Action for Identify Vehicle - fix saving of entity by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/2416
 * RS-3285: Fix sending company card expiration notification by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2419
 * 2023-12-21 | by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2418
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.64...rs-prd-v2.0.65

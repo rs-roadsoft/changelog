@@ -30,6 +30,3 @@ date: January 16, 2025
 * RS-4494: Fix issue with partner impersonation in case of multiple comanies by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3454
 * RS-4497 [Driver Daily Work] If a shift is double manned, the report shows ALL drivers in the `Co-driver` column, not just the actual co-driver by @rokbracun in https://github.com/rs-roadsoft/roadsoft-be/pull/3457
 * RELEASE: 2025-01-16 | by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3456
-
-
-**Full Changelog**: https://github.com/rs-roadsoft/roadsoft-be/compare/rs-prd-v2.0.107...rs-prd-v2.0.108

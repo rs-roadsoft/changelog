@@ -30,6 +30,3 @@ date: June 22, 2023
 * RS-2659 Forbidden resource on task manager by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1919
 * RS-2517 Support digicentral update by companyId by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1920
 * Release 2023-06-22 by @rokbracun in https://github.com/poviolabs/roadsoft-be/pull/1921
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.37...rs-prd-v2.0.38

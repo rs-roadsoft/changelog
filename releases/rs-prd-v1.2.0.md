@@ -33,6 +33,3 @@ date: October 6, 2022
 * RS-1829: Introduce detailed logs to SQS controller by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1386
 * RS-1907 STG - Unknown activity on driver card - double tiles on driver tab & wrong translation / description variable on inspection tab by @podplatnikm in https://github.com/poviolabs/roadsoft-be/pull/1387
 * RELEASE: 06-10-2022 | Inspection Tab by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/1388
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v1.1.51...rs-prd-v1.2.0

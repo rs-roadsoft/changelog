@@ -36,6 +36,3 @@ date: October 26, 2023
 * RS-2930: Driver letter task A in English (not Dutch) for new accounts by @lukapecnik in https://github.com/poviolabs/roadsoft-be/pull/2243
 * RS-3049: Fix Scheduled Reports - Country Code Report Not Sent Due to 'nickname' Error by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2244
 * RELEASE: 2023-10-26 | Missing Data by @gasperthegracner in https://github.com/poviolabs/roadsoft-be/pull/2246
-
-
-**Full Changelog**: https://github.com/poviolabs/roadsoft-be/compare/rs-prd-v2.0.54...rs-prd-v2.0.55

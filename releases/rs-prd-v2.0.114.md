@@ -29,6 +29,3 @@ date: February 27, 2025
 * RS-4670: Allow json download only to super admins by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3562
 * RS-4575 Subscription update by @rokbracun in https://github.com/rs-roadsoft/roadsoft-be/pull/3561
 * RELEASE 2025-02-27 | by @gasperthegracner in https://github.com/rs-roadsoft/roadsoft-be/pull/3563
-
-
-**Full Changelog**: https://github.com/rs-roadsoft/roadsoft-be/compare/rs-prd-v2.0.113...rs-prd-v2.0.114
